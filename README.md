@@ -53,7 +53,6 @@ uk-card-fraud-detection/
 ├── src/utils.py                      # shared features, split, preprocessing, evaluation
 ├── results/                          # metrics saved by each notebook
 ├── images/                           # charts used in this README
-├── LEARNING_NOTES.md                 # concepts explained + interview questions
 └── requirements.txt
 ```
 
