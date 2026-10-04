@@ -1,0 +1,14 @@
+{
+  "model": "Logistic Regression (final)",
+  "accuracy": 0.9959162961531026,
+  "precision": 0.36231884057971014,
+  "recall (fraud caught)": 0.6696428571428571,
+  "f1": 0.4702194357366771,
+  "false_negative_rate": 0.33035714285714285,
+  "frauds_missed": 37.0,
+  "false_alarms": 132.0,
+  "pr_auc": 0.5928322146983899,
+  "roc_auc": 0.9559291321684712,
+  "cost_gbp": 3933.7200000000003,
+  "threshold": 0.06999999999999999
+}

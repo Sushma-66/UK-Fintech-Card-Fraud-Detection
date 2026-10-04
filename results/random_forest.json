@@ -1,0 +1,14 @@
+{
+  "model": "Random Forest (final)",
+  "accuracy": 0.996786197564276,
+  "precision": 0.4426229508196721,
+  "recall (fraud caught)": 0.7232142857142857,
+  "f1": 0.5491525423728814,
+  "false_negative_rate": 0.2767857142857143,
+  "frauds_missed": 31.0,
+  "false_alarms": 102.0,
+  "pr_auc": 0.68292500083184,
+  "roc_auc": 0.9625938676861518,
+  "cost_gbp": 2859.8600000000006,
+  "threshold": 0.08
+}

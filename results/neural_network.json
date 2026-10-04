@@ -1,0 +1,14 @@
+{
+  "model": "Neural network (final)",
+  "accuracy": 0.9958438043688382,
+  "precision": 0.35294117647058826,
+  "recall (fraud caught)": 0.6428571428571429,
+  "f1": 0.45569620253164556,
+  "false_negative_rate": 0.35714285714285715,
+  "frauds_missed": 40.0,
+  "false_alarms": 132.0,
+  "pr_auc": 0.5630487613294425,
+  "roc_auc": 0.9587471097665661,
+  "cost_gbp": 5254.24,
+  "threshold": 0.09
+}

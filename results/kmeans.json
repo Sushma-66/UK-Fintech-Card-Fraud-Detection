@@ -1,0 +1,13 @@
+{
+  "model": "K-means distance (k=16)",
+  "accuracy": 0.9933549197757587,
+  "precision": 0.1970260223048327,
+  "recall (fraud caught)": 0.4732142857142857,
+  "f1": 0.2782152230971129,
+  "false_negative_rate": 0.5267857142857143,
+  "frauds_missed": 59.0,
+  "false_alarms": 216.0,
+  "pr_auc": 0.18246638503613655,
+  "roc_auc": 0.9347376204552377,
+  "cost_gbp": 5038.219999999999
+}
